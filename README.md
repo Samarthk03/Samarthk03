@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Samarthk03
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset"=utf-8">
+<title>
+3D Glowing Bottle
+</title>
+<linl rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
 
-<!---
-Samarthk03/Samarthk03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<section>
+<div class="shadow"></div>
+<div class="bowl">
+<div ckass="liquid"></div>
+
+</div>
+</section>
+</body>
+</html>
